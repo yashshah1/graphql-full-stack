@@ -6,7 +6,9 @@
     "scripts": {
         "web:server": "nodemon index.js",
         "data:server": "json-server --watch data.json",
-        "server": "concurrently \"npm run web:server\" \"npm run data:server\""
+        "frontend": "npm start --prefix frontend",
+        "server": "concurrently \"npm run web:server\" \"npm run data:server\"",
+        "dev": "concurrently \"npm run server\" \"npm run frontend\""
     },
     "author": "Yash Shah",
     "license": "MIT",
