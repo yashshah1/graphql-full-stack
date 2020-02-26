@@ -1,0 +1,92 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "name": "book1",
+      "genre": "sci-fi",
+      "authorId": "1"
+    },
+    {
+      "id": "2",
+      "name": "book2",
+      "genre": "sci-fi",
+      "authorId": "1"
+    },
+    {
+      "id": "3",
+      "name": "book3",
+      "genre": "autobiography",
+      "authorId": "2"
+    },
+    {
+      "id": "4",
+      "name": "book4",
+      "genre": "childrens",
+      "authorId": "3"
+    },
+    {
+      "id": "5",
+      "name": "book5",
+      "genre": "childrens",
+      "authorId": "2"
+    },
+    {
+      "id": "6",
+      "name": "book6",
+      "genre": "fiction",
+      "authorId": "4"
+    },
+    {
+      "id": "7",
+      "name": "book7",
+      "genre": "fiction",
+      "authorId": "4"
+    },
+    {
+      "name": "book8",
+      "genre": "test",
+      "authorId": "2",
+      "id": "NRDR2k0"
+    },
+    {
+      "name": "book9",
+      "genre": "test-genre",
+      "authorId": "3",
+      "id": "PLR-uVh"
+    },
+    {
+      "name": "book10",
+      "genre": "test2",
+      "authorId": "2",
+      "id": "iZ58fhq"
+    },
+    {
+      "name": "book11",
+      "genre": "testgenre",
+      "authorId": "3",
+      "id": "mrjh5B3"
+    }
+  ],
+  "authors": [
+    {
+      "id": "1",
+      "name": "author1",
+      "age": 21
+    },
+    {
+      "id": "2",
+      "name": "author2",
+      "age": 22
+    },
+    {
+      "id": "3",
+      "name": "author3",
+      "age": 23
+    },
+    {
+      "id": "4",
+      "name": "author4",
+      "age": 24
+    }
+  ]
+}
